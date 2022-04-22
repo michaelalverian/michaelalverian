@@ -1,8 +1,10 @@
 <!--- <p align="center"><img src="" width="200px"/></p> --->
-<h1 align="center"> Hello, Visitor! </h1>
-<h4 align="center"> I'm Michael Alverian. </h4>
+<h1 align="center"> Hello! </h1>
+<h4 align="center"> My name is Michael Alverian, I am currently a student of Informatics at Petra Christian University and currently studying: </h4>
 
 <br>
+
+
 
 <h2 align="center"> Stats </h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=michaelalverian&show_icons=true&theme=gruvbox&hide=prs" width="450"/></p>
