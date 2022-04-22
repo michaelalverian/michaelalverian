@@ -1,10 +1,14 @@
 <!--- <p align="center"><img src="" width="200px"/></p> --->
 <h1 align="center"> Hello! </h1>
-<h4 align="center"> My name is Michael Alverian, I am currently a student of Informatics at Petra Christian University and currently studying: </h4>
+<h4 align="left"> My name is Michael Alverian, I am currently a student of Informatics in data analysis at Petra Christian University.<br>For now I'm studying: </h4>
 
 <br>
 
-
+<ul>
+	<li>OpenCV</li>
+	<li>LSTM - Recurrent Neural Network (for Thesis)</li>
+	<li>Flutter</li>
+</ul>
 
 <h2 align="center"> Stats </h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=michaelalverian&show_icons=true&theme=gruvbox&hide=prs" width="450"/></p>
