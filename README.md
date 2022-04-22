@@ -1,12 +1,11 @@
 <!--- <p align="center"><img src="" width="200px"/></p> --->
 <h1 align="center"> Hello! </h1>
-<h4 align="left"> My name is Michael Alverian, I am currently a student of Informatics in data analysis at Petra Christian University.<br>For now I'm studying: </h4>
-
-<br>
+<h4 align="left"> My name is Michael Alverian, I am currently a student of Informatics in data analysis at Petra Christian University.<br><br>For now I'm studying: </h4>
 
 <ul>
 	<li>OpenCV</li>
 	<li>LSTM - Recurrent Neural Network (for Thesis)</li>
+	<li>Redis</li>
 	<li>Flutter</li>
 </ul>
 
@@ -24,8 +23,6 @@
 		<img align="center" alt="LinkedIn (Michael Alverian)" width="25px" target="blank" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 	</a>
 </p>
-
-
 
 
 <!---
