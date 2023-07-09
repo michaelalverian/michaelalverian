@@ -4,8 +4,9 @@
 
 <ul>
 	<li>OpenCV</li>
-	<li>LSTM - Recurrent Neural Network (for Thesis)</li>
-	<li>Laravel</li>
+	<li>CNN (Convolutional Neural Network)</li>
+	<li>LSTM (Long Short Term Memory)</li>
+	<li>Laravel 9</li>
 </ul>
 
 <h2 align="center"> Stats </h2>
