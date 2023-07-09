@@ -1,31 +1,18 @@
-<!--- <p align="center"><img src="" width="200px"/></p> --->
-<h1 align="center"> Hello! </h1>
-<h4 align="left"> My name is Michael Alverian, I am currently a student of Informatics in data analysis at Petra Christian University.<br><br>For now I'm studying: </h4>
+<h1 align="center">Hi 👋, I'm Michael Alverian</h1>
+<h3 align="center">I am a student of Informatics at Petra Christian University.</h3>
 
-<ul>
-	<li>OpenCV</li>
-	<li>CNN (Convolutional Neural Network)</li>
-	<li>LSTM (Long Short Term Memory)</li>
-	<li>Laravel 9</li>
-</ul>
+- 🌱 I’m currently learning **CNN (Convolutional Neural Network), LSTM (Long Short Term Memory), OpenCV, Neural Network, GAN (Generative Adversarial Network)**
 
-<h2 align="center"> Stats </h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=michaelalverian&show_icons=true&theme=gruvbox&hide=prs" width="450"/></p>
+- 📫 How to reach me **michael.alverian@gmail.com**
 
-<br><br>
-
-<h2 align="center"> Contact Me @ </h2>
-<p align="center">
-	<a href="https://twitter.com/michaelalverian">
-		<img align="center" alt="Twitter (Michael Alverian)" width="25px" target="blank" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-	</a>&nbsp;
-	<a href="https://www.linkedin.com/in/michael-alverian-03851a21b/">
-		<img align="center" alt="LinkedIn (Michael Alverian)" width="25px" target="blank" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-	</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/michael-alverian-03851a21b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael-alverian-03851a21b" height="30" width="40" /></a>
+<a href="https://kaggle.com/michalva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="michalva" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/michael_alverian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="michael_alverian" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<!---
-michaelalverian/michaelalverian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelalverian&show_icons=true&locale=en" alt="michaelalverian" /></p>
