@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Alverian</h1>
-<h3 align="center">I am a Fresh Graduate of Informatics at Petra Christian University.</h3>
+<h3 align="center">I am a Fresh Graduate of Informatics from Petra Christian University.</h3>
 
 - 🌱 I’m currently learning **CNN (Convolutional Neural Network), LSTM (Long Short Term Memory), OpenCV, Neural Network, GAN (Generative Adversarial Network)**
 
